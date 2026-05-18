@@ -41,6 +41,6 @@ TryHackMe/CTF walkthrough notes
 ---
 
 ## Connect With Me
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+LinkedIn: https://linkedin.com/in/Aryan Hepat
 
 Email: aryanhepat123@gmail.com
