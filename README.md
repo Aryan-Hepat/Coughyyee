@@ -1,18 +1,30 @@
+<h1 align="center">Hi 👋, I'm Aryan Hepat</h1>
+<h3 align="center">I'm a passionate Cyber Security Enthusiast</h3>
 
-# 💫 About Me:
- I’m currently working on:<br>Cybersecurity home lab using Kali Linux + Ubuntu VMs<br><br> I’m looking to collaborate on:<br>Beginner-friendly cybersecurity projects and CTF teams<br><br> I’m looking for help with:<br>SOC workflows, SIEM tools, and blue team projects<br><br> I’m currently learning:<br>Network security, Linux administration, incident response basics, Python automation<br><br> Ask me about:<br>Kali Linux setup, VM troubleshooting, beginner pentesting tools<br><br> Fun fact:<br>I enjoy breaking things in virtual labs and figuring out how to fix them
+- I’m currently working on **Active Directory**
 
+- I’m currently learning **Linux Administration , Incident response basics**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Hepat) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@aryan_hepat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanhepat123@gmail.com) 
+- I’m looking to collaborate on **Cyber Security Projects**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+- I’m looking for help with **SOC work flows , SIEM tools**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryan-Hepat&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- All of my projects are available at [NA](NA)
 
----
-[![](https://komarev.com/ghpvc/?username=Aryan-Hepat&icon=2&color=1)](https://visitcount.itsvg.in)
+- I regularly write articles on [NA](NA)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Ask me about **Fundamentals on Linux, networking, Pentesting tools**
+
+- How to reach me **aryanhepat123@gmail.com**
+
+- Know about my experiences [NA](NA)
+
+- Fun fact **NA**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aryan hepat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan hepat" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
